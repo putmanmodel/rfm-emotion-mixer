@@ -1,0 +1,43 @@
+{
+  "name": "rfm-emotion-mixer",
+  "version": "1.0.0",
+  "description": "A visual emotion mixer prototype using the PUTMAN Model and Resonant Field Mapping.",
+  "author": "Stephen A. Putman",
+  "license": "CC-BY-NC-4.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/putmanmodel/rfm-emotion-mixer.git"
+  },
+  "keywords": [
+    "emotion",
+    "visualization",
+    "empathy",
+    "react",
+    "vite",
+    "PUTMAN Model",
+    "RFM",
+    "symbolic modeling"
+  ],
+  "bugs": {
+    "url": "https://github.com/putmanmodel/rfm-emotion-mixer/issues"
+  },
+  "homepage": "https://github.com/putmanmodel/rfm-emotion-mixer#readme",
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "@vitejs/plugin-react": "^4.6.0",
+    "typescript": "^5.8.3",
+    "vite": "^7.0.0"
+  }
+}
