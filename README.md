@@ -1,3 +1,4 @@
+[![Vercel](https://vercel-status-badge.vercel.app/api?app=rfm-emotion-mixer)](https://rfm-emotion-mixer.vercel.app)
 # RFM Emotion Mixer
 
 **Patterned Understanding Through Meaning, Affect, Narrative**
@@ -7,6 +8,10 @@ This is a visual prototype built using the PUTMAN Model™ and Resonant Field Ma
 ## 🌀 What It Does
 
 This demo lets users explore how pairs of basic emotions interact by displaying a combined emoji and a symbolic label. It's a simple tool meant to showcase how emotion vectors can be modeled, visualized, and eventually embedded into larger AI systems.
+
+### 🆕 Why This is Different
+
+Unlike traditional emotion wheels or static charts, this tool models **symbolic tone blending** as a vector-based system. It’s not just labeling feelings — it’s simulating how affective resonance shifts across a field of meaning. It offers a **semantic bridge between emotion and logic**, paving the way for future AI systems to interpret emotion *with nuance and context*.
 
 ## 🌟 Example
 
