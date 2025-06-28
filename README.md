@@ -1,4 +1,6 @@
-[![Vercel Deployment](https://vercel.com/button)](https://vercel.com/stephen-a-putmans-projects/rfm-emotion-mixer)
+[![Website Status](https://img.shields.io/website?down_color=red&down_message=down&up_color=green&up_message=online&url=https%3A%2F%2Frfm-emotion-mixer.vercel.app)](https://rfm-emotion-mixer.vercel.app)
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/stephen-a-putmans-projects/rfm-emotion-mixer)
 # RFM Emotion Mixer
 
 **Patterned Understanding Through Meaning, Affect, Narrative**
