@@ -4,6 +4,7 @@
   "description": "A visual emotion mixer prototype using the PUTMAN Model and Resonant Field Mapping.",
   "author": "Stephen A. Putman",
   "license": "CC-BY-NC-4.0",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "dev": "vite",
@@ -34,10 +35,14 @@
     "react-dom": "^19.1.0"
   },
   "devDependencies": {
+    "@tailwindcss/postcss": "npm:tailwindcss@^4.1.11",
     "@types/react": "^19.1.8",
     "@types/react-dom": "^19.1.6",
     "@vitejs/plugin-react": "^4.6.0",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.4.17",
     "typescript": "^5.8.3",
-    "vite": "^7.0.0"
+    "vite": "^4.5.14"
   }
 }
